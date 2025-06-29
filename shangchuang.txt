@@ -1,0 +1,5 @@
+git init
+git add *
+git commit -m "one commit"
+git remote add origin https://github.com/panzhen1998/metabolic.git
+git push -u origin master
