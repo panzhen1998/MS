@@ -19,7 +19,7 @@ from sklearn.model_selection import GridSearchCV
 # In[2]:
 
 
-data = pd.read_csv('C:/Users/pz/Desktop/mss.csv')
+data = pd.read_csv('mss.csv')
 df = pd.DataFrame(data)
 
 
